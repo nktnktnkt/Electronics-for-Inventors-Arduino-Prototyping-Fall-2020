@@ -4,10 +4,10 @@
 
 ## Requirements
 Hello! Prior to the class, please download and install Arduino and purchase this ARduino Kit
-- Arduino kit from [Ebay $40(including shipping)](https://www.ebay.com/itm/iduino-Projects-Kit-for-Arduino-Uno-Program-Learning-Electronics-Starter-Kit/333436519412?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2060353.m2749.l2649)
+- Arduino kit from [Amazon $30(including shipping)](https://www.amazon.com/Miuzei-Projects-Breadboard-Detailed-Tutorial/dp/B07BTB3N3J/ref=sxin_2_ac_d_pm?ac_md=2-0-VW5kZXIgJDUw-ac_d_pm&cv_ct_cx=arduino+kit&dchild=1&keywords=arduino+kit&pd_rd_i=B07BTB3N3J&pd_rd_r=0b111f06-67d6-4b9f-8362-b7fae52652bf&pd_rd_w=Vtjoq&pd_rd_wg=FYh3L&pf_rd_p=03c604b9-aff8-43e1-ae09-374522ec365b&pf_rd_r=AAYAZ5G9XX3BHMCR0TF0&psc=1&qid=1599166840&sr=1-1-22d05c05-1231-4126-b7c4-3e7a9c0027d0)
 - Download and install the [Arduino Software](https://www.arduino.cc/en/Main/Software)
 
-#### This is a [cool kit](https://www.ebay.com/itm/iduino-Projects-Kit-for-Arduino-Uno-Program-Learning-Electronics-Starter-Kit/333436519412?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2060353.m2749.l2649) we found to use for the class.
+#### This is a [cool kit](https://www.amazon.com/Miuzei-Projects-Breadboard-Detailed-Tutorial/dp/B07BTB3N3J/ref=sxin_2_ac_d_pm?ac_md=2-0-VW5kZXIgJDUw-ac_d_pm&cv_ct_cx=arduino+kit&dchild=1&keywords=arduino+kit&pd_rd_i=B07BTB3N3J&pd_rd_r=0b111f06-67d6-4b9f-8362-b7fae52652bf&pd_rd_w=Vtjoq&pd_rd_wg=FYh3L&pf_rd_p=03c604b9-aff8-43e1-ae09-374522ec365b&pf_rd_r=AAYAZ5G9XX3BHMCR0TF0&psc=1&qid=1599166840&sr=1-1-22d05c05-1231-4126-b7c4-3e7a9c0027d0) we found to use for the class.
 ![foo](https://github.com/nktnktnkt/Electronics-for-Inventors-Arduino-Prototyping/blob/master/pics/arduino_kit.JPG)
 #### This is the current version of Arduino from the [website](https://www.arduino.cc/en/Main/Software)
 ![foo](https://github.com/nktnktnkt/Electronics-for-Inventors-Arduino-Prototyping/blob/master/pics/arduino_download2.JPG)
