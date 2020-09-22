@@ -1,6 +1,6 @@
 # Electronics-for-Inventors-Arduino-Prototyping (Fall 2020)
 
-### 4 weeks - Tuesdays and Thursdays Sept 22 - Aug 15th
+### 4 weeks - Tuesdays and Thursdays Sept 22 - Oct 15th
 
 ## Requirements
 Hello! Prior to the class, please download and install Arduino and purchase this Arduino Kit
