@@ -57,7 +57,7 @@ Install mini speaker
 Reading the remote control
 - Get file from github
 - Add LEDs to turn ON/off based on remote control
-Add piezo speaker outputs based on remote control
+- Add piezo speaker outputs based on remote control
 
 #### Week 4 - 1st Class
 Introduction to motors
