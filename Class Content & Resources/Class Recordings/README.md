@@ -11,3 +11,6 @@ https://portlandcc.zoom.us/rec/share/NBP6up7Gpj5lUNWMmuTUDCMUJY2Fxu0khKxHpizTexO
 </br></br>
 Class 4: Oct 1 </br>
 https://portlandcc.zoom.us/rec/share/i_dyiQgyjAmJMFVWXKPcdZQLKycHKv6rsVT99QkiA7p1oaOPP7PxkhPwfyZCY9pe.YQ940FL3FII6AbWu
+</br></br>
+Class 5: Oct 6 </br>
+https://portlandcc.zoom.us/rec/share/XoHu-zAD936z7s-x_kPh2yN_LgOR7I9wJc57KRFw4RbmkULUeSXcmNYUEoseZxJ6.weTwF5Np1Qed4qUq
